@@ -11,3 +11,6 @@ index.html - The Index document for the website.
 
 ** IAM link: http://rosaire-kota-udacity-tp-01.s3-website-us-east-1.amazonaws.com/
 ** CloudFront link:https://d2lzcrmjdo30ig.cloudfront.net/
+
+### Precision
+I have added the 404 page
