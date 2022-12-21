@@ -10,4 +10,4 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 ** IAM link: http://rosaire-kota-udacity-tp-01.s3-website-us-east-1.amazonaws.com/
-** CloudFront link: <a href="https://d2lzcrmjdo30ig.cloudfront.net/">https://d2lzcrmjdo30ig.cloudfront.net/</a>
+** CloudFront link:https://d2lzcrmjdo30ig.cloudfront.net/
